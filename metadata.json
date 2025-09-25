@@ -1,0 +1,5 @@
+{
+  "name": "우리 회사에 잘맞을까?",
+  "description": "AI 기반 인재 검증 어시스턴트. 지원자의 서류와 JD를 분석하여 면접 질문과 검증 체크리스트를 생성합니다.",
+  "requestFramePermissions": []
+}
